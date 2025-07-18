@@ -1,5 +1,3 @@
-# Inventory-Management-System
-
 # Project Title:
 Inventory Management System with GUI using Python
 
